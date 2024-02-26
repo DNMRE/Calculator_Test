@@ -1,0 +1,10 @@
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\moeda004\OneDrive - Osloskolen\Dokumenter\Calculator_project\Code\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
